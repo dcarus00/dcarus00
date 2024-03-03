@@ -12,8 +12,8 @@
 
 - 📄 Conoce mis experiencias [https://www.linkedin.com/in/diego-caruso/](https://www.linkedin.com/in/diego-caruso/)
 
-<h3>Conéctate conmigo                                                                                            Comunidad:</h3>
-<p align="center">
+<h3 align="left">Conéctate conmigo</h3>                                                                                  
+<p align="left">
 <a href="https://linkedin.com/in/diego caruso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego caruso" height="30" width="40" /></a>
 </p>
 
