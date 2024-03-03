@@ -19,7 +19,7 @@
 
 <h3 align="left">Comunidad:</h3>
 <p align="left">
-<a href="https://discord.gg/bkqncW39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="di360" height="30" width="40" /></a>
+<a href="https://discord.gg/bkqncW39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="di360" height="40" width="50" /></a>
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dcarus00&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="dcarus00" /> </p>
