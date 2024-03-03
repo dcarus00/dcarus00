@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, Mi nombre es Diego</h1>
 <h3 align="left">Me considero un entusiasta de mi trabajo, siempre abierto a explorar nuevas tecnologías y experimentar con ellas.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dcarus00&label=Profile%20views&color=0e75b6&style=flat" alt="dcarus00" /> </p>
+
 
 - 🌱 I’m currently learning **RHEL - AWS**
 
