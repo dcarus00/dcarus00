@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RHEL - AWS**
 
-- Ask me about **Docker - Linux - Windows Server - HPE - Proxmox - GCP - AWS - Azure**
+- Ask me about **Docker - Linux - Windows Server - HPE - Proxmox - GCP - AWS - Azure**</h3>
 
 - 📫 How to reach me **dcarusoartave@gmail.com**
 
