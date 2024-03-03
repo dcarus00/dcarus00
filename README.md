@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **RHEL - AWS**
 
-- No me considero un gurú pero si necesitas apoyo, puedo aportar en temas como
+- No me considero un gurú pero si necesitas apoyo, puedo aportar en temas como:
 <h4 align="center">Docker - Linux - Windows Server - HPE - Proxmox - GCP - AWS  - Azure</h4> 
 
 - 📫 Cómo contactarme **dcarusoartave@gmail.com**
