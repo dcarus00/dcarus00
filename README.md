@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, Me llamo Diego Caruso</h1>
-<h3 align="center">Soy un apasionado por mi trabajo, me gusta experimentar nuevas tecnologías</h3>
+<h3 align="center">"Me considero un entusiasta de mi trabajo, siempre abierto a explorar nuevas tecnologías y experimentar con ellas."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcarus00&label=Profile%20views&color=0e75b6&style=flat" alt="dcarus00" /> </p>
 
