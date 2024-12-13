@@ -14,9 +14,9 @@
 
 # Portafolio de Proyectos
 
-Bienvenido a mi portafolio. Aquí encontrarás mis proyectos destacados:
+Bienvenido a mi portafolio. Aquí dejo algunos de mis proyectos destacados:
 
-1. [Mi Proyecto Actual](./mi-proyecto-actual/)
+1. [DevSecOps](./DevSecOps/)
 2. [Proyecto 2 (placeholder)](./proyecto2/)
 3. [Proyecto 3 (placeholder)](./proyecto3/)
 
