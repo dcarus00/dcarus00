@@ -17,8 +17,7 @@
 Bienvenido a mi portafolio. Aquí dejo algunos de mis proyectos destacados:
 
 1. [DevSecOps](./DevSecOps/)
-2. [Proyecto 2 (placeholder)](./proyecto2/)
-3. [Proyecto 3 (placeholder)](./proyecto3/)
+
 
 ¡Explora cada uno para más detalles!
 
