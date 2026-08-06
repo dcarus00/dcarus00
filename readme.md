@@ -27,7 +27,7 @@ Disponible para proyectos freelance y contratos remotos.
 
 ### 📫 Contacto
 
-- LinkedIn: [linkedin.com/in/diego-caruso](https://www.linkedin.com/in/diego-caruso)
+- LinkedIn: [linkedin.com/in/dcarus00](https://linkedin.com/in/dcarus00/)(https://linkedin.com/in/dcarus00/)
 - Workana / Upwork: disponible para nuevos proyectos
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=dcarus00&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="dcarus00" /></p>
