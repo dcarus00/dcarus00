@@ -24,6 +24,11 @@ Disponible para proyectos freelance y contratos remotos.
 | [terraform-aws-infrastructure](https://github.com/dcarus00/terraform-aws-infrastructure) | Terraform modular para AWS: VPC + ALB + ASG + RDS, entornos staging/producción, con estimación de costos |
 | [edge-sensor-firmware](https://github.com/dcarus00/edge-sensor-firmware) | Plataforma IoT de bajo costo: nodos ESP32 por MQTT/TLS con backend auto-hospedado (~USD 12/nodo) |
 | [portafolio/DevSecOps](https://github.com/dcarus00/portafolio/tree/main/DevSecOps) | Laboratorio DevSecOps: docker-compose, terraform, scripts y gestión de secrets |
+| [aws-cost-auditor](https://github.com/dcarus00/aws-cost-auditor) | Auditoría de costos AWS: detecta desperdicio y genera informe con ahorro estimado en USD |
+| [ansible-server-hardening](https://github.com/dcarus00/ansible-server-hardening) | Hardening de servidores Linux basado en CIS con Ansible: SSH, firewall, fail2ban, auditd |
+| [kubernetes-from-zero](https://github.com/dcarus00/kubernetes-from-zero) | Cluster k3s de cero a producción: TLS automático, HPA, NetworkPolicy, manifiestos comentados |
+| [backup-automation-toolkit](https://github.com/dcarus00/backup-automation-toolkit) | Backups PostgreSQL/Docker/S3 con rotación y **verificación de restauración** |
+| [uptime-monitor-pymes](https://github.com/dcarus00/uptime-monitor-pymes) | Monitoreo como servicio para PyMEs: instalador de un comando + informes para clientes |
 
 ### 📫 Contacto
 
