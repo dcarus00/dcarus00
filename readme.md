@@ -31,6 +31,8 @@ Disponible para proyectos freelance y contratos remotos.
 | [uptime-monitor-pymes](https://github.com/dcarus00/uptime-monitor-pymes) | Monitoreo como servicio para PyMEs: instalador de un comando + informes para clientes |
 | [kubernetes-gitops-argocd](https://github.com/dcarus00/kubernetes-gitops-argocd) | GitOps con ArgoCD: el cluster se sincroniza solo desde Git, multi-entorno con Kustomize |
 | [kubernetes-security-baseline](https://github.com/dcarus00/kubernetes-security-baseline) | Seguridad para Kubernetes: RBAC mínimo, PSS, NetworkPolicies y checklist de auditoría de 25 ítems |
+| [zabbix-docker-ha-lab](https://github.com/dcarus00/zabbix-docker-ha-lab) | Zabbix 7.0 LTS production-ready: TimescaleDB, Grafana y backups, listo para desplegar en clientes |
+| [zabbix-inventory-reporter](https://github.com/dcarus00/zabbix-inventory-reporter) | Informes ejecutivos mensuales desde la API de Zabbix, listos para enviar al cliente |
 
 ### 📫 Contacto
 
