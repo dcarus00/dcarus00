@@ -29,6 +29,8 @@ Disponible para proyectos freelance y contratos remotos.
 | [kubernetes-from-zero](https://github.com/dcarus00/kubernetes-from-zero) | Cluster k3s de cero a producción: TLS automático, HPA, NetworkPolicy, manifiestos comentados |
 | [backup-automation-toolkit](https://github.com/dcarus00/backup-automation-toolkit) | Backups PostgreSQL/Docker/S3 con rotación y **verificación de restauración** |
 | [uptime-monitor-pymes](https://github.com/dcarus00/uptime-monitor-pymes) | Monitoreo como servicio para PyMEs: instalador de un comando + informes para clientes |
+| [kubernetes-gitops-argocd](https://github.com/dcarus00/kubernetes-gitops-argocd) | GitOps con ArgoCD: el cluster se sincroniza solo desde Git, multi-entorno con Kustomize |
+| [kubernetes-security-baseline](https://github.com/dcarus00/kubernetes-security-baseline) | Seguridad para Kubernetes: RBAC mínimo, PSS, NetworkPolicies y checklist de auditoría de 25 ítems |
 
 ### 📫 Contacto
 
