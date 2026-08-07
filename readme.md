@@ -33,6 +33,8 @@ Disponible para proyectos freelance y contratos remotos.
 | [kubernetes-security-baseline](https://github.com/dcarus00/kubernetes-security-baseline) | Seguridad para Kubernetes: RBAC mínimo, PSS, NetworkPolicies y checklist de auditoría de 25 ítems |
 | [zabbix-docker-ha-lab](https://github.com/dcarus00/zabbix-docker-ha-lab) | Zabbix 7.0 LTS production-ready: TimescaleDB, Grafana y backups, listo para desplegar en clientes |
 | [zabbix-inventory-reporter](https://github.com/dcarus00/zabbix-inventory-reporter) | Informes ejecutivos mensuales desde la API de Zabbix, listos para enviar al cliente |
+| [linux-user-manager](https://github.com/dcarus00/linux-user-manager) | Gestión interactiva de usuarios multi-distro: claves SSH, grupos, directorios al alta, auditoría |
+| [graylog-docker-stack](https://github.com/dcarus00/graylog-docker-stack) | Centralización de logs con Graylog 6 + OpenSearch: inputs preconfigurados y retención automática |
 
 ### 📫 Contacto
 
