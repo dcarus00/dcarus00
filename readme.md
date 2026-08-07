@@ -2,7 +2,7 @@
 
 <p align="center">
 Ingeniero DevOps con más de 7 años de experiencia administrando infraestructura crítica.
-Disponible para proyectos freelance y contratos remotos.
+Disponible para proyectos freelance y/o contratos fijos.
 </p>
 
 ---
