@@ -35,6 +35,7 @@ Disponible para proyectos freelance y/o contratos fijos.
 | [zabbix-inventory-reporter](https://github.com/dcarus00/zabbix-inventory-reporter) | Informes ejecutivos mensuales desde la API de Zabbix, listos para enviar al cliente |
 | [linux-user-manager](https://github.com/dcarus00/linux-user-manager) | Gestión interactiva de usuarios multi-distro: claves SSH, grupos, directorios al alta, auditoría |
 | [graylog-docker-stack](https://github.com/dcarus00/graylog-docker-stack) | Centralización de logs con Graylog 6 + OpenSearch: inputs preconfigurados y retención automática |
+| [telegram-job-radar-bot](https://github.com/dcarus00/telegram-job-radar-bot) | Bot de Telegram que monitorea ofertas freelance y filtra por stack técnico, configurable vía YAML |
 
 ### 📫 Contacto
 
